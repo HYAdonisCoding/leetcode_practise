@@ -1,0 +1,15 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“®öÃşÿÿÿÿ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+S
+java:S1659">Declare "r" and all following declarations on a separate line.(ææ
+7
+java:S1116"Remove this empty statement.(½‹è‘ûÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´‹ÿÌıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û£’¿
+–
+java:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(½‹è‘ûÿÿÿÿ

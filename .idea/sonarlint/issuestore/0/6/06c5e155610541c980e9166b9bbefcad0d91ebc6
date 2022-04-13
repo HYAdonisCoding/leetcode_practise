@@ -1,0 +1,14 @@
+
+h
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¡¼ø÷
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÅôƒÉ
+U
+java:S1117ó"9Rename "left" which hides the field declared at line 326.( Å¼’øÿÿÿÿ
+V
+java:S1117ô":Rename "right" which hides the field declared at line 327.(á×Ò¯øÿÿÿÿ
+t	java:S135Á"YReduce the total number of break and continue statements in this loop to use at most one.(êþ•Èÿÿÿÿÿ
+_
+java:S2259Ò"HA "NullPointerException" could be thrown; "levelInfo()" can return null.(Ð²€–
+_
+java:S2259Ò"HA "NullPointerException" could be thrown; "levelInfo()" can return null.(Ð²€–

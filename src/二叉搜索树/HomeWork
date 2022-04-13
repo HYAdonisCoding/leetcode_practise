@@ -1,0 +1,25 @@
+二叉搜索树
+作业
+◼ _450_删除二叉搜索树中的节点：https://leetcode-cn.com/problems/delete-node-in-a-bst/    ✅
+◼ _700_二叉搜索树中的搜索：https://leetcode-cn.com/problems/search-in-a-binary-search-tree/    ✅
+◼ _701_二叉搜索树中的插入操作：https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/    ✅
+◼ _98_验证二叉搜索树：https://leetcode-cn.com/problems/validate-binary-search-tree/     ✅
+◼ 二叉搜索树的最小绝对差：https://leetcode-cn.com/problems/minimum-absolute-difference-inbst/  ❌
+◼ 783. 二叉搜索树节点最小距离https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/  ❌
+作业
+◼ 将有序数组转换为二叉搜索树：https://leetcode-cn.com/problems/convert-sorted-array-to-binary-searchtree/    ❌
+◼ 二叉搜索树的范围和：https://leetcode-cn.com/problems/range-sum-of-bst/
+◼ 二叉搜索树的最近公共祖先：https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binarysearch-tree/  ❌
+◼ 二叉搜索树中第K小的元素：https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/  ❌
+◼ 二叉搜索树迭代器：https://leetcode-cn.com/problems/binary-search-tree-iterator/    ❌
+◼ 恢复二叉搜索树：https://leetcode-cn.com/problems/recover-binary-search-tree/  ❌
+作业
+◼ 合并两个有序数组
+https://leetcode-cn.com/problems/merge-sorted-array/    ❌
+◼ 合并两个有序链表
+https://leetcode-cn.com/problems/merge-two-sorted-lists/    ❌
+◼ 合并k个有序链表
+https://leetcode-cn.com/problems/-k-sorted-lists/   ❌
+
+◼ 教程
+https://ke.qq.com/course/436549

@@ -1,0 +1,12 @@
+
+7
+java:S1659*"!Declare "idx" on a separate line.(œ€®
+Y
+java:S1659+">Declare "r" and all following declarations on a separate line.(Àæþúýÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¨×‡“
+i	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Àð¯üÿÿÿÿ
+T	java:S106Ð"9Replace this use of System.out or System.err by a logger.(ÒõŒÅþÿÿÿÿ
+W	java:S125Ì"<This block of commented-out lines of code should be removed.(´ü©øÿÿÿÿÿ
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(œÛßæ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾Äõ®üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¢Þÿÿÿÿÿ

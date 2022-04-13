@@ -1,0 +1,15 @@
+
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¥›îÎ
+2
+java:S1116*"Remove this empty statement.(¥›îÎ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¸¿Å±
+2
+java:S1116+"Remove this empty statement.(¸¿Å±
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(ÍÓà8®ËŽØñ/
+8
+java:S1116,"Remove this empty statement.(ÍÓà8¯ËŽØñ/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ï”¶Ûýÿÿÿÿ8¯ËŽØñ/
+>
+java:S1116-"Remove this empty statement.(Ï”¶Ûýÿÿÿÿ8¯ËŽØñ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ø¹’­
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û£’¿

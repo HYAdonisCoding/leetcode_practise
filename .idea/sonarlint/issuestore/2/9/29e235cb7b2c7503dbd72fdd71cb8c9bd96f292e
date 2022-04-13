@@ -1,0 +1,9 @@
+
+T
+java:S1659">Declare "l" and all following declarations on a separate line.(ì„ˆÝ
+_
+java:S1659"DDeclare "lastIdx" and all following declarations on a separate line.(æž¬²üÿÿÿÿ
+;
+java:S16592"%Declare "lastIdx" on a separate line.(Ê¡š›
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—¾ùµýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û£’¿

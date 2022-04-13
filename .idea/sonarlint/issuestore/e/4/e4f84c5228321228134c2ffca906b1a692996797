@@ -1,0 +1,7 @@
+
+—
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó·Ä¯úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒÓò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åè­²úÿÿÿÿ

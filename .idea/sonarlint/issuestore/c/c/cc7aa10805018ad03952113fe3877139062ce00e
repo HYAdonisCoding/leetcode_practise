@@ -1,0 +1,14 @@
+
+d
+java:S1659,"IDeclare "rightBstSize" and all following declarations on a separate line.(™‘Å«ıÿÿÿÿ
+e
+java:S1104H"PMake root a static final constant or non-public and provide accessors if needed.(Êˆs
+k
+java:S1104J"PMake size a static final constant or non-public and provide accessors if needed.(Ï¥š°ûÿÿÿÿ
+e
+java:S1104L"OMake max a static final constant or non-public and provide accessors if needed.(¢€ê×
+j
+java:S1104N"OMake min a static final constant or non-public and provide accessors if needed.(Ü—ùßÿÿÿÿÿ
+a	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÆ¡
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ©×ßıÿÿÿÿ
