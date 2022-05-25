@@ -1,1 +1,6 @@
-.idea/
+
+# workspace
+.idea
+*.class
+*.iml
+target
