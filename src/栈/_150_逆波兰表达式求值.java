@@ -31,8 +31,31 @@ import java.util.Stack;
 = 22
  */
 public class _150_逆波兰表达式求值 {
-
 	public static int evalRPN(String[] tokens) {
+		Stack<Integer> stack = new Stack<>();
+		for (String token: tokens) {
+			switch (token) {
+				case "+":
+					stack.push(stack.pop() + stack.pop());
+					break;
+				case "*":
+					stack.push(stack.pop() * stack.pop());
+					break;
+				case "-":
+					stack.push(-stack.pop() + stack.pop());
+					break;
+				case "/":
+					Integer right = stack.pop();
+					stack.push(stack.pop() / right);
+					break;
+				default:
+					stack.push(Integer.parseInt(token));
+			}
+		}
+		return stack.pop();
+	}
+
+	public static int evalRPN1(String[] tokens) {
 		int score = 0;
 		Stack<Integer> stack = new Stack<>();
 
