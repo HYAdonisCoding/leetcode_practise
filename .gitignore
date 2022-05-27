@@ -1,5 +1,5 @@
 # workspace
-.idea
+.idea/
 *.class
 *.iml
 target
