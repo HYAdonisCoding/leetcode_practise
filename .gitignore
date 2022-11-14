@@ -1,6 +1,6 @@
 # workspace
 .idea/
-*.class
+.idea/*
 *.iml
 target
 # Compiled class file
